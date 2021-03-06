@@ -1,4 +1,4 @@
-# DatabaseAissgnment3
+# DatabaseAssignment3
 
 
 1. Execute createdb.sql in your sqldeveloper
